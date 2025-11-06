@@ -2,6 +2,7 @@
 
 import { ShoppingCart, Shield, Zap } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import Link from "next/link"
 
 interface Product {
 	name: string
@@ -143,15 +144,15 @@ export default function ProductGrid() {
 								</div>
 
 								{/* CTA Button */}
-								<a href={product.amazonLink} data-auto>
+								<Link href={product.slug} >
 									<Button
 										className="w-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all"
 
 									>
-										<ShoppingCart className="w-4 h-4 mr-2" />
-										View on Amazon
+
+										View Details
 									</Button>
-								</a>
+								</Link>
 							</div>
 						</div>
 					))}
