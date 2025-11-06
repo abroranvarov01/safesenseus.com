@@ -144,7 +144,7 @@ export default function ProductGrid() {
 								</div>
 
 								{/* CTA Button */}
-								<Link href={product.slug} >
+								<Link href={`/products/${product.slug}`} >
 									<Button
 										className="w-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all"
 
