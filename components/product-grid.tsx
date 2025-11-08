@@ -20,7 +20,7 @@ const products: Product[] = [
 		description: "Hardwired combination smoke and CO detector with reliable performance",
 		image: "https://m.media-amazon.com/images/I/81szIilT2dL._AC_SX679_PIbundle-3,TopRight,0,0_SH20_.jpg",
 		features: ["Hardwired", "Combination Detector", "Interconnectable"],
-		amazonLink: "https://www.amazon.com/SMICO100-AC-Interconnect-Hardwire-Combination-Monoxide/dp/B0CLVQF7MC"
+		amazonLink: "https://amzn.to/482k4uI"
 	},
 	{
 		name: "Kidde Hardwired Monoxide Detector",
@@ -28,7 +28,7 @@ const products: Product[] = [
 		description: "Interconnectable CO detector with LED indicators for enhanced safety",
 		image: "https://m.media-amazon.com/images/I/71aZ-ySqxWL._AC_SX679_.jpg",
 		features: ["Hardwired", "LED Indicators", "Interconnectable"],
-		amazonLink: "https://www.amazon.com/Kidde-Hardwired-Monoxide-Interconnectable-Indicators/dp/B0DDWC1RP9"
+		amazonLink: "https://amzn.to/4hL9oUR"
 	},
 	{
 		name: "First Alert CO710",
@@ -36,7 +36,7 @@ const products: Product[] = [
 		description: "Carbon monoxide detector with digital display and temperature monitoring",
 		image: "https://m.media-amazon.com/images/I/51bf1RtcEPL._AC_SX679_.jpg",
 		features: ["Digital Display", "Temperature Monitoring", "10-Year Battery"],
-		amazonLink: "https://www.amazon.com/First-Alert-Monoxide-Temperature-CO710/dp/B011O2WW1C"
+		amazonLink: "https://amzn.to/4hMTKs3"
 	},
 	{
 		name: "Kidde Battery Monoxide Detector",
@@ -44,7 +44,7 @@ const products: Product[] = [
 		description: "Battery-operated CO detector with test and hush features",
 		image: "https://m.media-amazon.com/images/I/71EIUICeeRL._AC_SX679_.jpg",
 		features: ["Battery Operated", "Test/Hush Button", "Easy Installation"],
-		amazonLink: "https://www.amazon.com/Kidde-Monoxide-Detector-Battery-Test-Hush/dp/B0DT1MYBNV"
+		amazonLink: "https://amzn.to/4qOjF6z"
 	},
 	{
 		name: "First Alert PC1210",
@@ -52,7 +52,7 @@ const products: Product[] = [
 		description: "Combination smoke and CO detector with photoelectric sensor",
 		image: "https://m.media-amazon.com/images/I/61EQFiYTBHL._AC_SX679_.jpg",
 		features: ["Photoelectric Sensor", "Combination Detector", "Slim Design"],
-		amazonLink: "https://www.amazon.com/First-Alert-PC1210-Combination-Photoelectric/dp/B01DXPVYN0"
+		amazonLink: "https://amzn.to/3XePZBZ"
 	},
 	{
 		name: "Ring Alarm Listener",
@@ -60,7 +60,7 @@ const products: Product[] = [
 		description: "Smart listener for real-time alerts with existing smoke and CO detectors",
 		image: "https://m.media-amazon.com/images/I/41dwgKIkTpL._SX679_.jpg",
 		features: ["Smart Integration", "Real-Time Alerts", "Works with Existing Detectors"],
-		amazonLink: "https://www.amazon.com/Ring-Listener-Real-Time-Existing-Detectors/dp/B0DCX156J7"
+		amazonLink: "https://amzn.to/4qSfdny"
 	},
 	{
 		name: "X-Sense SC07-MR51",
@@ -68,7 +68,7 @@ const products: Product[] = [
 		description: "Battery-operated interconnected smoke and CO detector bundle",
 		image: "https://m.media-amazon.com/images/I/71-ZQWqr1iL._AC_SX679_PIbundle-5,TopRight,0,0_SH20_.jpg",
 		features: ["Interconnected", "Battery Operated", "Combination Detector"],
-		amazonLink: "https://www.amazon.com/X-Sense-Battery-Operated-Interconnected-Combination-SC07-MR51/dp/B0D73KDSXD"
+		amazonLink: "https://amzn.to/4nK2sIT"
 	},
 	{
 		name: "Kidde KN-COPP-B-LPM",
@@ -76,7 +76,7 @@ const products: Product[] = [
 		description: "Battery-operated CO detector with digital display for easy monitoring",
 		image: "https://m.media-amazon.com/images/I/71Q2PU+ZWVL._AC_SX679_.jpg",
 		features: ["Digital Display", "Battery Operated", "Test Button"],
-		amazonLink: "https://www.amazon.com/Kidde-Battery-Operated-Monoxide-KN-Copp-B-LPM/dp/B004Y6V5CI"
+		amazonLink: "https://amzn.to/47wJOiY"
 	},
 	{
 		name: "Smoke & CO Detector",
@@ -84,7 +84,7 @@ const products: Product[] = [
 		description: "Reliable combination detector for comprehensive home safety",
 		image: "https://m.media-amazon.com/images/I/71ba1urVi6L._AC_SX679_.jpg",
 		features: ["Combination Detector", "Easy Setup", "Loud Alarm"],
-		amazonLink: "https://www.amazon.com/dp/B0CF26RTD9"
+		amazonLink: "https://amzn.to/3XhPGq6"
 	},
 ]
 

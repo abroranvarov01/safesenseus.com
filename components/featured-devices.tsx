@@ -20,7 +20,7 @@ const products: Product[] = [
     description: "Hardwired combination smoke and CO detector with reliable performance",
     image: "https://m.media-amazon.com/images/I/81szIilT2dL._AC_SX679_PIbundle-3,TopRight,0,0_SH20_.jpg",
     features: ["Hardwired", "Combination Detector", "Interconnectable"],
-    amazonLink: "https://www.amazon.com/SMICO100-AC-Interconnect-Hardwire-Combination-Monoxide/dp/B0CLVQF7MC",
+    amazonLink: "https://amzn.to/482k4uI",
   },
   {
     name: "Kidde Hardwired Monoxide Detector",
@@ -28,7 +28,7 @@ const products: Product[] = [
     description: "Interconnectable CO detector with LED indicators for enhanced safety",
     image: "https://m.media-amazon.com/images/I/71aZ-ySqxWL._AC_SX679_.jpg",
     features: ["Hardwired", "LED Indicators", "Interconnectable"],
-    amazonLink: "https://www.amazon.com/Kidde-Hardwired-Monoxide-Interconnectable-Indicators/dp/B0DDWC1RP9",
+    amazonLink: "https://amzn.to/4hL9oUR",
   },
   {
     name: "First Alert CO710",
@@ -36,7 +36,7 @@ const products: Product[] = [
     description: "Carbon monoxide detector with digital display and temperature monitoring",
     image: "https://m.media-amazon.com/images/I/51bf1RtcEPL._AC_SX679_.jpg",
     features: ["Digital Display", "Temperature Monitoring", "10-Year Battery"],
-    amazonLink: "https://www.amazon.com/First-Alert-Monoxide-Temperature-CO710/dp/B011O2WW1C",
+    amazonLink: "https://amzn.to/4hMTKs3",
   },
 ]
 
