@@ -1,9 +1,15 @@
 import { NextRequest, NextResponse } from "next/server";
 
 const slugs = [
-  "first-alert-co615",
-  "kidde-smoke-co-combo",
-  "google-nest-protect",
+  "smico100-ac-interconnect",
+  "kidde-hardwired-monoxide",
+  "first-alert-co710",
+  "kidde-battery-monoxide",
+  "first-alert-pc1210",
+  "ring-listener",
+  "x-sense-sc07-mr51",
+  "kidde-kn-copp-b-lpm",
+  "smoke-co-detector",
 ];
 
 export function middleware(req: NextRequest) {
